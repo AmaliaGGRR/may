@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "KazimirBold.otf" ;
+    src: url("../fonts/KazimirBold.otf") format("truetype");
+    font-style: bold;
+    font-weight: 200;
+}
+
+p{
+    font-family: "KazimirBold.otf";
+    font-style: bold;
+}
+
+.meow {
+    color: blue;
+}
+.www {
+    color: blueviolet;
+}
+
+h1{
+    color: blue;
+}
+ #dom {
+    font-size: 9ch;
+ }
+
+ ul li {
+    color: rgb(109, 227, 188);
+    font-size: large;
+ }
+
+ nav > ul {
+    background-color: rgb(247, 170, 247);
+    border-radius: 20px;
+ }
+
+ a {
+    color: mediumslateblue;
+ }
+
+ a:hover{
+    color: blueviolet;
+}
+
+h2 + p {
+    font-size: larger;
+    font-weight: bold;
+    color: violet;
+}
+
+.xxx{
+    color: rgb(224, 87, 87);
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.kac{
+    width: 95vw;
+    height: 250px;
+
+    background-color: rgb(86, 56, 221);
+    border-radius: 10px;
+}
+
+.content-container{
+    background-color: lightslategray;
+    margin-top: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+section{
+    background-color: rgb(211, 184, 211);
+}
+
+.section{
+    background-color: aqua;
+}
+
